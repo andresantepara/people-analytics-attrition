@@ -1,0 +1,6 @@
+# Entorno probado: Python 3.14. Guardar versiones con pip freeze.
+pandas>=2.2,<3.1
+streamlit>=1.40,<2
+plotly>=5.24,<7
+numpy>=1.26,<3
+scikit-learn>=1.6,<2

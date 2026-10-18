@@ -1,0 +1,23 @@
+{
+  "python": "3.14.7",
+  "sistema": "Darwin",
+  "release": "27.0.0",
+  "arquitectura": "arm64",
+  "paquetes": {
+    "streamlit": "1.65.0",
+    "pandas": "3.0.6",
+    "plotly": "6.9.0",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "pyarrow": "25.0.1"
+  },
+  "ollama": {
+    "version": "0.40.6",
+    "modelos": [
+      {
+        "nombre": "llama3.2:3b",
+        "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72"
+      }
+    ]
+  }
+}
